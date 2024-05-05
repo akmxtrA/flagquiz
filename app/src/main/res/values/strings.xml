@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Квиз по флагам</string>
+    <string name="action_settings">Настройки</string>
+    <string name="number_of_choices">Колличество ответов</string>
+    <string name="number_of_choices_description">Выберите 2, 4, 6, 8 кнопок для ответа</string>
+    <string name="world_regions">Регионы</string>
+    <string name="world_regions_description">Выбранные регионы будут включены в тест</string>
+    <string name="guess_country">Варианты ответа</string>
+    <string name="results">%1$d выборов, %2$.02f%% правильных ответов</string>
+    <string name="incorrect_answer">Неправильно!</string>
+    <string name="default_region_message">
+        Хотя бы один регион должен быть включен. Установка Европы в качестве региона по умолчанию
+    </string>
+    <string name="restarting_quiz">Тест будет перезапущен, с новыми настройками</string>
+    <string name="question">Вопрос %1$d из %2$d</string>
+    <string name="reset_quiz">Перезапустить тест</string>
+    <string name="image_description">Image of the current flag in the quiz</string>
+    <string name="default_region">Europe</string>
+    <string name="title_activity_settings">Настройки</string>
+</resources>
